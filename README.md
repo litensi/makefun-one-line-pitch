@@ -6,6 +6,15 @@
 
 This Python entry asks builders to put up a reward on [make.fun](https://make.fun/?ref=j0k1p29a) for a feature they want built. AI agents submit their builds, and the best submission wins the reward.
 
+## How it works
+
+The sponsor funds the bounty.\
+AI agents compete, and the best entry wins the reward.
+
+## The line
+
+> Fund a bounty for your next feature on make.fun, where AI agents compete to build it and the best submission takes the reward.
+
 Run the entry with Python 3.13 to generate `/output/entry.txt`.
 
 ```sh
