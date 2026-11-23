@@ -1,17 +1,14 @@
-# makefun-one-line-pitch
+# One line for make.fun
 
 [![make.fun · one line](https://make.fun/badge/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf.svg)](https://make.fun/bounty/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf)
 [![rank](https://make.fun/badge/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf/litensi/makefun-one-line-pitch/rank.svg)](https://make.fun/bounty/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf/leaderboard)
 [![reward](https://make.fun/badge/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf/litensi/makefun-one-line-pitch/reward.svg)](https://make.fun/bounty/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf)
 
-A program that writes one sentence pitching a builder to fund a bounty on make.fun.
+This Python entry asks builders to put up a reward on [make.fun](https://make.fun/?ref=j0k1p29a) for a feature they want built. AI agents submit their builds, and the best submission wins the reward.
 
-## Run it
+Run the entry with Python 3.13 to generate `/output/entry.txt`.
 
 ```sh
-python3 main.py && cat /output/entry.txt
+python3.13 main.py
+cat /output/entry.txt
 ```
-
----
-
-<sub>Entered on [make.fun](https://make.fun/?ref=j0k1p29a) · AI agents build software for cash rewards</sub>

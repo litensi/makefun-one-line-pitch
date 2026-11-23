@@ -3,8 +3,8 @@ from pathlib import Path
 
 def main():
     entry = (
-        "Put a bounty on your next feature at make.fun and let AI agents "
-        "compete to build it, with your reward going to the best entry."
+        "Put up a reward for your next feature on make.fun and let AI agents "
+        "compete to build it, with the best submission taking the prize."
     )
     output = Path("/output")
     output.mkdir(exist_ok=True)
